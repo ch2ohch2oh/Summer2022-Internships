@@ -240,7 +240,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Discovery Inc](https://discovery1.jibeapply.com/careers-home/jobs/27023?lang=en-us) | Various | Software Engineer Intern; Must be a rising Junior or Senior |
 |[Novetta](https://boards.greenhouse.io/novetta) | McLean, Reeston VA | Machine Learning Intern, Cloud Software Development Intern. Applicants must be eligible for US security clearance;​ all clearances require US citizenship.|
 |[NASA Jet Propulsion Laboratory](https://www.jpl.jobs/search-results?keywords=Intern) | Pasadena, CA | Multiple Positions |
-|[McDonald's](https://mcdonalds.jibeapply.com/main/jobs/406000018219483?lang=en-us) | Chicago, IL | Global Technology Internship |
+|[McDonald's](https://mcdonalds.jibeapply.com/main/jobs/406000018219483?lang=en-us) | Chicago, IL | Global Technology Internship. Prefer junior working towards a Bachelor's degree with a graduation date in Fall 2022 or Spring 2023. |
 |[MongoDB](https://www.mongodb.com/careers/jobs/3336092) | New York, Austin, SF | Software Engineering Intern |
 |[QVC](https://careers.qurateretailgroup.com/job-search-results/?keyword=2022) | Various | Multiple Openings. |
 |[DriveTime](https://jobs.drivetime.com/jobs?page_size=50&page_number=1&keyword=internship&sort_by=score&sort_order=DESC) | Tempe, AZ | Application Developer, Database Developer, Data Science Developer |
